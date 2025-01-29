@@ -1,3 +1,5 @@
+.body{overflow-x: hidden;}
+
 .image-row {
     display: flex;
     justify-content: space-between;
@@ -342,7 +344,7 @@ input[type="submit"]:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-style:italic;
-    background-image: url(./programming-1009134_640.jpg);
+    background-image: url(./istockphoto.jpg);
 background-repeat: no-repeat;
 background-size: cover;
     background-position: center center;
@@ -353,7 +355,7 @@ background-size: cover;
     align-items: center;
     flex-direction: column;
     text-align: center;
-    color: #ff4c1d;
+    color: #d84a17;
 }
   .nyasha{
 background-image: url(./ncnk.avif);
